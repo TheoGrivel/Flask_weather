@@ -1,0 +1,1 @@
+FLASK_APP=weer_tg.py
